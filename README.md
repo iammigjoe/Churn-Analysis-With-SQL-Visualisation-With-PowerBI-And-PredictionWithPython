@@ -1,5 +1,5 @@
 # Churn-Analysis-With-SQL-Visualisation-With-PowerBI-And-PredictionWithPython
-
+![image alt](image_url)
 🇫🇷 Résumé en Français (avec DAX & Power Query)
 
 Analyse du Churn — SQL • Power BI • Python (KNN)
